@@ -9,6 +9,6 @@ My name is Jean Manguy. I am a bioinformatician interested in both data analysis
 - 🤔 I’m looking for help with Rust development
 - 💬 Ask me about data analysis, data visualisation, and proteins
 - 💓 My current "coups de cœur" are Nextflow with Singulatity containers, Tidyverse, and Rust
-- 📫 How to reach me: twitter or email
+- 📫 How to reach me: email
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: On the side I am working on a rpg video game about academia and scientifi research-->
